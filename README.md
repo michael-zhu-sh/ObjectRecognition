@@ -1,1 +1,2 @@
 本代码库中存放Visual studio的解决方案，其中包含Object Recognition方向的若干项目代码。
+ObjectRecognition.sln是VS2012的解决方案，MNIST项目里面存放MNIST数据集的实验文件，MNIST.dataset文件夹里面存放MNIST的4个数据文件。
